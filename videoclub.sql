@@ -1,5 +1,3 @@
-drop schema videoclub cascade;
-
 create schema if not exists videoclub;
 
 SET schema 'videoclub';
